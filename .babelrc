@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "env",
+    "stage-0"
+  ],
+  "compact": true,
+  "plugins": [
+    "dynamic-import-node",
+    "transform-runtime",
+    "transform-decorators-legacy"
+  ]
+}
